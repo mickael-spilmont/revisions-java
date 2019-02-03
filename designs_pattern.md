@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 # Design pattern
 ## Factory
 * Créer des objets sans exposer la logique de création au client
